@@ -8,7 +8,7 @@ import (
 	"github.com/gin-gonic/gin"
 )
 
-// commit ke dua
+// commit ke tiga
 
 func main() {
 	config.InitDB()
